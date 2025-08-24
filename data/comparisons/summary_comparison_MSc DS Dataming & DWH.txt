@@ -1,0 +1,67 @@
+--- Original Text ---
+WHAT IS DATA MINING?
+What is data mining?
+•Data mining refers toextracting or“mining" knowledge from large amounts of
+data .
+•Data mining can also bedefined asthe exploration and analysis oflarge
+quantities ofdata inorder todiscover meaningful patterns and rules .
+•Data mining isthesearch forrelationships and global patterns that exist inlarge
+databases but are ‘hidden’ among the vast amount ofdata, such asa
+relationship between patient data and their medical diagnosis .
+•These relationships represent valuable knowledge about thedatabase and the
+objects inthedatabase .•Data mining isthe analysis step ofthe "knowledge discovery in
+databases" process, orKDD .
+•Data mining isthepractice ofautomatically searching large stores of
+data todiscover patterns and trends that gobeyond simple analysis .
+•Data mining uses sophisticated mathematical algorithms tosegment
+thedata and evaluate theprobability offuture events .
+•Data mining isalso known asKnowledge Discovery inData (KDD) .Why do we need ...
+
+--- TFIDF Summary ---
+•Data mining can help improve intrusion detection byadding alevel offocus to
+anomaly detection .Ithelps ananalyst todistinguish anactivity from common
+everyday network activity .Data mining also helps extract data which ismore relevant
+totheproblem .•Customer Segmentation
+•Traditional market research may help ustosegment customers butdata mining
+goes indeep and increases market effectiveness .Data mining aids inaligning
+thecustomers into adistinct segment and cantailor theneeds according tothe
+customers . •The types  of data  sources  : Databases  (Eg: Oracle,  MySQL,  PostgreSql  etc), Flat Files  (CSV,  JSON,  
+XML,  Excel),  API & Web  Services  (RESTful  APIs,  SOAP),  Cloud  Storage  (AWS  S3, Google  Cloud  
+Storage  etc), Streaming  Data  (logs,  IOT sensors),  Enterprise  Applications(SAP ,  ERP systems,  
+Salesforce),
+•Extraction  Methods  : Full Extraction  , Incremental  extraction  (extracts  only  new  or modified  
+records  since  last extraction,  uses  timestamps),  Streaming  extraction  (real -time  extraction  of 
+continuous  data  flow,  used  for live dashboard  : monitoring  stock  prices  or IOT device  data)
+•Common  tools  are SQL queries,  ETL tools  like Talend,  Apache  Nifi, Microsoft  SSIS,  Python  
+Libraries  : Pandas,  Beautiful  Soup  (for Web  scraping)•Challenges in Data Extraction
+•Data Heterogeneity:  Different data formats and structures. While  OLAP  systems  can also query  real-time  data,  they  are typically  used  to analyze  data  that has 
+been  periodically  loaded  from  OLTP  systems  or other  sources .OLTP systems OLAP systems
+Enable the real -time execution of large numbers of database 
+transactions by large numbers of peopleUsually involve querying many records (even all records) in a 
+database for analytical purposes
+Require lightning -fast response timesRequire response times that are orders of magnitude slower 
+than those required by OLTP
+Modify small amounts of data frequently and usually involve a 
+balance of reads and writesDo not modify data at all; workloads are usually read -intensive
+Use indexed data to improve response timesStore data in columnar format to allow easy access to large 
+numbers of records
+Require frequent or concurrent database backups Require far less frequent database backup
+Require relatively little storage spaceTypically have significant storage space requirements, because 
+they store large amounts of historical data
+Usually run simple queries involving just one or a few records Run complex queries involving large numbers of recordsWhat is ETL?
+
+--- BERT Summary ---
+•Data mining refers toextracting or“mining" knowledge from large amounts of
+data . •The data  mining  process  depends  on the data  compiled  in the data  
+warehousing  phase  to recognize  meaningful  patterns .Comparison between data mining and data warehousing
+Data Warehousing Data Mining
+A data  warehouse  is database  system  which  is 
+designed  for analytical  analysis  instead  of 
+transactional  work .Data mining is the process of analyzing data patterns. •Data  Loading
+•Data  Access•Integrated : A data  warehouse  is created  by integrating  data  from  
+numerous  different  sources  such  that from  mainframe  computers  and a 
+relational  database .
+
+--- BART Summary ---
+An error occurred during summarization. The file may contain unreadable content.
+

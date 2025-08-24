@@ -1,0 +1,67 @@
+last updated on august  
+sushmitha a
+envelope sushmithapoojarygmail.com
+mobile   mapmarker dakshina kannada karnataka india
+github github.comsushmitha  linkedin linkedin.cominsushmitha 
+summary
+msc data science student with academic and project experience in predictive modeling nlp and data visualization.
+proficient in python sql tableau tensorflow and statistical methods. experienced in analyzing data and presenting
+insights to support decisionmaking.
+education
+aimit mangalore
+  
+msc in data science
+coursework machine learning deep learning big data tableau natural language processing visualisation pyspark
+data mining streamlit multivariate analysis.
+sdm degree college
+  
+bsc in statistics and mathematics
+cgpa .
+coursework linear algebra calculus regression and correlation bayesian statistics probability inferential statistics
+testing of hypothesis.
+projects
+stock market forecasting system
+  
+endtoend mlops pipeline building
+github source code
+live demo link
+ built an endtoend pipeline for stock price prediction automating data retrieval feature engineering training and live
+forecasts reducing manual effort by .
+ engineered a timeseries forecasting model utilizing lstm deep learning integrated with  technical indicators and
+finbert sentiment analysis achieving a  improvement in prediction accuracy compared to baseline models.
+ designed a modular python architecture with separate scripts for each function improving code scalability and reducing
+debugging time by .
+customer churn prediction
+  
+deep learning model
+github source code
+ built and trained a deep learning model with tensorflowkeras to predict customer churn in telecom data achieving
+ accuracy and improving retention prediction by  over to baseline methods.
+ managed the endtoend data science workflow exploration preprocessing training reducing model development
+time by .
+ evaluated model performance using precision recall and fscore identifying key customer segments with  recall
+in the churn class..
+multiclass disaster text classifier
+  
+endtoend machine learning
+github source code
+live demo disastertweetclassificationapp
+ developed a multiclass text classification model to detect disasterrelated tweets earthquake flood wildfire achieving
+ accuracy and enabling faster crisis categorization by .
+ applied tfidf feature engineering improving text classification accuracy by  compared to basic count features.
+ implemented model saving with .pkl files reducing deployment setup time by  and ensuring reproducibility.
+
+skills
+languages python  r postgresql sql mongodb  git  github gitlab bash.
+aiml mlops docker git tensorflow pytorch keras scikitlearn hugging face transformers nltk nlp rag
+cloud  deployment aws s lambda ec azure cloudflare flask fastapi streamlit.
+data technologies pyspark pandas numpy matplotlib seaborn plotly tableau jupyter.
+soft skills learning ability communication mentoring collaboration flexibility task prioritization.
+leadership  achievements
+ selected as student faculty during final year of b.sc. conducted sessions for juniors on core subjects and assisted
+them in academics.
+ certificates
+ scalar machine learning and deep learning specialisation.
+ infosys springboard artificial intelligence primer certifications
+ infosys springboard probability  statistics using r.
+ infosys springboard data visualization with tableau.

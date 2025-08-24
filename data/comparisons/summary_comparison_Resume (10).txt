@@ -1,0 +1,52 @@
+--- Original Text ---
+Last updated on: August 20, 2025
+Sushmitha A
+Envelopesushmithapoojary532@gmail.com MOBILE7019123179 jMap-markerDakshina Kannada, Karnataka, India
+Githubgithub.com/Sushmitha-3003 jLINKEDINlinkedin.com/in/sushmitha3003 j
+Summary
+MSc Data Science student with academic and project experience in predictive modeling, NLP, and data visualization.
+Proficient in Python, SQL, Tableau, TensorFlow, and statistical methods. Experienced in analyzing data and presenting
+insights to support decision-making.
+Education
+AIMIT, Mangalore 08/2024 – 06/2026
+MSc in Data Science CGPA: 9.02/10
+Coursework: MachineLearning,DeepLearning,BigData,Tableau,NaturalLanguageProcessing,Visualisation,PySpark,
+Data mining, Streamlit, Multivariate Analysis.
+SDM Degree College 10/2021 – 06/2024
+BSc in Statistics and Mathematics CGPA: 8.88/10
+Coursework: Linear Algebra, Calculus, Regression and Correlation, Bayesian Statistics, Probability, Inferential Statistics,
+Testing of Hypothesis.
+Projects
+Stock Market Forecasting Syste...
+
+--- TFIDF Summary ---
+Last updated on: August 20, 2025
+Sushmitha A
+Envelopesushmithapoojary532@gmail.com MOBILE7019123179 jMap-markerDakshina Kannada, Karnataka, India
+Githubgithub.com/Sushmitha-3003 jLINKEDINlinkedin.com/in/sushmitha3003 j
+Summary
+MSc Data Science student with academic and project experience in predictive modeling, NLP, and data visualization. •Evaluatedmodelperformanceusingprecision,recall,andF1-score,identifyingkeycustomersegmentswith80%recall
+in the churn class..
+Multiclass Disaster Text Classifier 04/2025 - 05/2025
+End-to-End Machine Learning
+GitHub: Source Code Live Demo: disaster-tweet-classification-app
+•Developedamulticlasstextclassificationmodeltodetectdisaster-relatedtweets(earthquake,flood,wildfire),achieving
+81% accuracy and enabling faster crisis categorization by 40%. AI/ML:MLOps, Docker, Git, TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face Transformers„ NLTK, NLP, RAG
+Cloud & Deployment: AWS (S3, Lambda, EC2), Azure, Cloudflare, Flask, FastAPI, Streamlit.
+
+--- BERT Summary ---
+Last updated on: August 20, 2025
+Sushmitha A
+Envelopesushmithapoojary532@gmail.com MOBILE7019123179 jMap-markerDakshina Kannada, Karnataka, India
+Githubgithub.com/Sushmitha-3003 jLINKEDINlinkedin.com/in/sushmitha3003 j
+Summary
+MSc Data Science student with academic and project experience in predictive modeling, NLP, and data visualization. Customer Churn Prediction 06/2025 - 07/2025
+Deep Learning Model
+GitHub: Source Code
+•Built and trained a deep learning model with TensorFlow/Keras to predict customer churn in telecom data, achieving
+81% accuracy and improving retention prediction by 20% over to baseline methods. •Managed the end-to-end data science workflow (exploration, preprocessing, training), reducing model development
+time by 30%.
+
+--- BART Summary ---
+ MSc Data Science student with academic and project experience in predictive modeling, NLP, and data visualization . Proficient in Python, SQL, Tableau, TensorFlow, and statistical methods . Experienced in analyzing data and presenting insights to support decision-making .
+

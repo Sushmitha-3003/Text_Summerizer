@@ -1,0 +1,69 @@
+--- Original Text ---
+Last updated on: August 20, 2025
+Sushmitha A
+Envelope sushmithapoojary532@gmail.com
+MOBILE 7019123179 | Map-marker Dakshina Kannada, Karnataka, India
+Github github.com/Sushmitha-3003 | LINKEDIN linkedin.com/in/sushmitha3003 |
+Summary
+MSc Data Science student with academic and project experience in predictive modeling, NLP, and data visualization.
+Proficient in Python, SQL, Tableau, TensorFlow, and statistical methods. Experienced in analyzing data and presenting
+insights to support decision-making.
+Education
+AIMIT, Mangalore
+08/2024 – 06/2026
+MSc in Data Science
+Coursework: Machine Learning, Deep Learning, Big Data, Tableau, Natural Language Processing, Visualisation, PySpark,
+Data mining, Streamlit, Multivariate Analysis.
+SDM Degree College
+10/2021 – 06/2024
+BSc in Statistics and Mathematics
+CGPA: 8.88/10
+Coursework: Linear Algebra, Calculus, Regression and Correlation, Bayesian Statistics, Probability, Inferential Statistics,
+Testing of Hypothesis.
+Projects
+Stock Market Forecasting S...
+
+--- TFIDF Summary ---
+Last updated on: August 20, 2025
+Sushmitha A
+Envelope sushmithapoojary532@gmail.com
+MOBILE 7019123179 | Map-marker Dakshina Kannada, Karnataka, India
+Github github.com/Sushmitha-3003 | LINKEDIN linkedin.com/in/sushmitha3003 |
+Summary
+MSc Data Science student with academic and project experience in predictive modeling, NLP, and data visualization. Projects
+Stock Market Forecasting System
+07/2025 - 08/2025
+End-to-End MLOps Pipeline Building
+GitHub: Source Code
+Live Demo: Link
+• Built an end-to-end pipeline for stock price prediction, automating data retrieval, feature engineering, training, and live
+forecasts, reducing manual effort by 70%. • Evaluated model performance using precision, recall, and F1-score, identifying key customer segments with 80% recall
+in the churn class..
+Multiclass Disaster Text Classifier
+04/2025 - 05/2025
+End-to-End Machine Learning
+GitHub: Source Code
+Live Demo: disaster-tweet-classification-app
+• Developed a multiclass text classification model to detect disaster-related tweets (earthquake, flood, wildfire), achieving
+81% accuracy and enabling faster crisis categorization by 40%.
+
+--- BERT Summary ---
+Last updated on: August 20, 2025
+Sushmitha A
+Envelope sushmithapoojary532@gmail.com
+MOBILE 7019123179 | Map-marker Dakshina Kannada, Karnataka, India
+Github github.com/Sushmitha-3003 | LINKEDIN linkedin.com/in/sushmitha3003 |
+Summary
+MSc Data Science student with academic and project experience in predictive modeling, NLP, and data visualization. Projects
+Stock Market Forecasting System
+07/2025 - 08/2025
+End-to-End MLOps Pipeline Building
+GitHub: Source Code
+Live Demo: Link
+• Built an end-to-end pipeline for stock price prediction, automating data retrieval, feature engineering, training, and live
+forecasts, reducing manual effort by 70%. • Managed the end-to-end data science workflow (exploration, preprocessing, training), reducing model development
+time by 30%.
+
+--- BART Summary ---
+ MSc Data Science student with academic and project experience in predictive modeling, NLP, and data visualization . Proficient in Python, Tableau, TensorFlow, and statistical methods .
+

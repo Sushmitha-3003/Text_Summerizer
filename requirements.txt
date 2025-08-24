@@ -1,0 +1,8 @@
+PyPDF2
+sandyie_read
+scikit-learn
+nltk
+sumy
+transformers
+torch
+bert-extractive-summarizer
