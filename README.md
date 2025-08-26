@@ -55,10 +55,11 @@ preprocess.py: Contains functions for text cleaning and preprocessing.
 
 summarizers/: Contains the summarization models.
 
-bart_summarizer.py: The script for the BART summarizer.
+bart_summarizer.py: The script for the BERT summarizer.
 
 🤝 Contributing
 Feel free to open an issue or submit a pull request if you'd like to improve this project.
 
 📄 License
 This project is licensed under the MIT License.
+
